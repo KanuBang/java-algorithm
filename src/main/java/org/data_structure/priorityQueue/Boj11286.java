@@ -1,4 +1,4 @@
-package org.data_structure.stackQueue;
+package org.data_structure.priorityQueue;
 import java.util.*;
 import java.io.*;
 public class Boj11286 {
