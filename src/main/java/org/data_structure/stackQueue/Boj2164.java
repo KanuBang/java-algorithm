@@ -7,7 +7,6 @@ public class Boj2164 {
         int cur = 0;
 
         Deque<Integer> queue = new ArrayDeque<Integer>();
-
         for(int i=n; i >0; i--){
             queue.push(i);
         }
