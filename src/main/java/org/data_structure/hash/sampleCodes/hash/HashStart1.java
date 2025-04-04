@@ -1,4 +1,4 @@
-package org.data_structure.hash.sampleCodes;
+package org.data_structure.hash.sampleCodes.hash;
 
 import java.util.Arrays;
 
