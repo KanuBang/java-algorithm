@@ -1,4 +1,4 @@
-package org.graph_traversal.dfs;
+package org.graph_traversal.dfs.boj;
 import java.io.*;
 import java.util.*;
 public class Boj2023 {
