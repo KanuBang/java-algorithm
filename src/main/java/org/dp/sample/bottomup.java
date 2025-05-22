@@ -1,4 +1,4 @@
-package org.dp;
+package org.dp.sample;
 
 import java.util.Scanner;
 
