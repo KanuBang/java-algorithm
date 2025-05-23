@@ -1,4 +1,4 @@
-package org.implementation;
+package org.implementation.boj;
 
 import java.util.ArrayList;
 import java.util.Scanner;
