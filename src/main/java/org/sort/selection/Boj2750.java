@@ -25,6 +25,7 @@ public class Boj2750 {
                 }
             }
 
+            // swap
             if(a[max] > a[i]){
                 int tmp = a[i];
                 a[i] = a[max];
